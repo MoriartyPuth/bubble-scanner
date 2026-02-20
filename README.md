@@ -5,6 +5,8 @@
 ![Category](https://img.shields.io/badge/Category-Threat--Hunting-blue?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Vulnerability-Scanner-red?style=for-the-badge)
 
+<img width="718" height="281" alt="Screenshot 2026-02-18 013405" src="https://github.com/user-attachments/assets/6f20bbc3-d4d8-43b5-a0d1-c80c52d53494" />
+
 ## 📋 Overview
 `Bubble-Scanner` is a custom-engineered automation script designed for rapid attack surface discovery and proactive threat hunting. Unlike generic fuzzers, `Bubble-Scanner` is built with an **event-driven architecture** that triggers deep-scan subroutines the moment an active endpoint is discovered.
 
