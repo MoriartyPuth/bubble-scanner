@@ -14,6 +14,16 @@ It was the primary engine used to identify a critical **PII leak** in a governme
 
 ---
 
+## 🛠️ Labs & Testing
+This tool was used as a real-world benchmark for the:
+
+* **[CSS-GDIN](https://github.com/MoriartyPuth/N7-Lab)**.
+* **[TestVuln Hub](https://github.com/MoriartyPuth/SQLi-to-DB-Exfiltration-Lab)**.
+* **[Pickle Rick Lab](https://github.com/MoriartyPuth/Pickle-Rick-Lab)**.
+* **[N7 Lab](https://github.com/MoriartyPuth/N7-Lab)**.
+
+---
+
 ## ⚙️ Technical Deep Dive
 
 ### 1. **The Event-Driven "Bubble-Dive" Engine**
